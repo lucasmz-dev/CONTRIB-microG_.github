@@ -8,35 +8,44 @@ assignees: ''
 
 ---
 
-**Affected app**
-Name: [e.g. WhatsApp]
-Package id: [e.g. com.whatsapp]
-<!-- You can find the package id in the URL of the Play Store page, e.g. https://play.google.com/store/apps/details?id=com.whatsapp -->
+<!-- Any text like this is a comment, and will be used to explain what you should input and/or examples. -->
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## System Info
+<!-- e.g.
+Android version: 15
+OS: LineageOS 22 (whether it is official, unofficial, etc)
+microG version: 0.3.3.240913 (make sure all components such as Companion are updated)
+microG Self-Check: All ticked (can be found in microG Settings)
+-->
 
-**To Reproduce**
-Steps to reproduce the behavior:
+Android version:
+OS:
+microG version:
+microG Self-Check:
+<!-- Missing checks in the self-check menu might be the reason why the issue is happening! -->
+
+## App info
+Name: <!-- [e.g. WhatsApp] -->
+Package ID: <!-- [e.g. com.whatsapp] -->
+
+<!-- You can find the package ID in the URL of the Play Store page, e.g. https://play.google.com/store/apps/details?id=com.whatsapp -->
+<!-- Some aftermarket OSes (e.g. CalyxOS) might also show this under App Info -->
+
+## Brief description of the bug
+<!-- A clear and concise description of what the bug is. -->
+
+## Steps to reproduce
+<!-- e.g. Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
+4. See error -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Expected behavior
+<!-- A clear and concise description of what you expected to happen. -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Screenshots
+<!-- If applicable, add screenshots to help explain your problem. -->
 
-**System**
-Android Version: [e.g. 10]
-Custom ROM: [e.g. LineageOS 17.1]
-
-**microG**
-microG Core version: [e.g. 0.2.13.203915]
-microG Self-Check results: [e.g. All ticked]
-<!-- Please note that any of the self-check items not being ticked is a good indicator of microG being not properly set up. If something is not working, it might just be because of that. -->
-
-**Additional context**
-Add any other context about the problem here.
+## Additional context
+<!-- Add any other context about the problem here. -->
