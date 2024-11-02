@@ -1,20 +1,23 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an feature or idea for microG
 title: ''
 labels: enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+<!-- Any text like this is a comment, and will be used to explain what you should input and/or examples. -->
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Use case
+<!-- Is your feature request related to a problem? Please describe.
+A clear and concise description of what the problem is. e.g. I'm always frustrated when [...] -->
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Proposed solution
+<!-- A clear and concise description of what you want to happen. -->
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Alternative solutions
+<!-- A clear and concise description of any alternative solutions or features you've considered. -->
+
+## Additional context
+<!-- Add any other context or screenshots about the feature request here. -->
